@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: e80e8e1615a7f4f48b1dc5c495bcd351
+timeCreated: 1511953179
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_0
+    21300002: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_1
+    21300004: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_2
+    21300006: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_3
+    21300008: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_4
+    21300010: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_5
+    21300012: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_6
+    21300014: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_7
+    21300016: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_8
+    21300018: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_9
+    21300020: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_10
+    21300022: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_11
+    21300024: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_12
+    21300026: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_13
+    21300028: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 654
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 654
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 654
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 654
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_4
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 654
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 327
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 327
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_8
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 327
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_9
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 327
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_13
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 334_mobs.wakfustasis.WakfuStasis13_enemyPNG_14
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 318
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
