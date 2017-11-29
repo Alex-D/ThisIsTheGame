@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: bb21cb225c581d04898e414530b23ae4
+timeCreated: 1511973081
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 217_mobs.wakfustasis.WakfuStasis10_Start_0
+    21300002: 217_mobs.wakfustasis.WakfuStasis10_Start_1
+    21300004: 217_mobs.wakfustasis.WakfuStasis10_Start_2
+    21300006: 217_mobs.wakfustasis.WakfuStasis10_Start_3
+    21300008: 217_mobs.wakfustasis.WakfuStasis10_Start_4
+    21300010: 217_mobs.wakfustasis.WakfuStasis10_Start_5
+    21300012: 217_mobs.wakfustasis.WakfuStasis10_Start_6
+    21300014: 217_mobs.wakfustasis.WakfuStasis10_Start_7
+    21300016: 217_mobs.wakfustasis.WakfuStasis10_Start_8
+    21300018: 217_mobs.wakfustasis.WakfuStasis10_Start_9
+    21300020: 217_mobs.wakfustasis.WakfuStasis10_Start_10
+    21300022: 217_mobs.wakfustasis.WakfuStasis10_Start_11
+    21300024: 217_mobs.wakfustasis.WakfuStasis10_Start_12
+    21300026: 217_mobs.wakfustasis.WakfuStasis10_Start_13
+    21300028: 217_mobs.wakfustasis.WakfuStasis10_Start_14
+    21300030: 217_mobs.wakfustasis.WakfuStasis10_Start_15
+    21300032: 217_mobs.wakfustasis.WakfuStasis10_Start_16
+    21300034: 217_mobs.wakfustasis.WakfuStasis10_Start_17
+    21300036: 217_mobs.wakfustasis.WakfuStasis10_Start_18
+    21300038: 217_mobs.wakfustasis.WakfuStasis10_Start_19
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_6
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_7
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_8
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_9
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_10
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_11
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_12
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_13
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_14
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_15
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_16
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_17
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_18
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 217_mobs.wakfustasis.WakfuStasis10_Start_19
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
