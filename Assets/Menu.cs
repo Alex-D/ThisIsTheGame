@@ -1,0 +1,30 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class Menu : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
+
+    public void OnPlay()
+    {
+        StartCoroutine(Play());
+    }
+
+    private IEnumerator Play()
+    {
+        DontDestroyOnLoad(gameObject);
+        yield return SceneManager.LoadSceneAsync("main", LoadSceneMode.Single);
+        yield return SceneManager.LoadSceneAsync("ui", LoadSceneMode.Additive);
+        Destroy(gameObject);
+    }
+}

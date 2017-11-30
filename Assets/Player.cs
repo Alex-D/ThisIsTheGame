@@ -5,10 +5,20 @@ using System;
 
 public class Player : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
+    public event Action<int> OnScoreChanged;
+
+    private int score = 0;
+
+    private static Player instance;
+    
+	void Awake () {
+        instance = this;
 	}
+
+    public static Player GetInstance()
+    {
+        return instance;
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -33,6 +43,7 @@ public class Player : MonoBehaviour {
             r2d.velocity = new Vector2(r2d.velocity.x, 5f);
             r2d.AddTorque(-10f, ForceMode2D.Impulse);
             GetComponent<Animator>().SetTrigger("Jump");
+            GetComponent<AudioSource>().Play();
         }
 	}
 
@@ -40,7 +51,12 @@ public class Player : MonoBehaviour {
     {
         if (collision.gameObject.tag.Equals("Enemy"))
         {
-            Destroy(collision.gameObject);
+            collision.gameObject.GetComponent<Enemy>().kill();
+            score += 100;
+            if (OnScoreChanged != null)
+            {
+                OnScoreChanged(score);
+            }
         }
     }
 }

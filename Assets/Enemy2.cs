@@ -2,5 +2,5 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy1 : Enemy {
+public class Enemy2 : Enemy {
 }
