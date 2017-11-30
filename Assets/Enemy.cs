@@ -5,7 +5,6 @@ using UnityEngine;
 public abstract class Enemy : MonoBehaviour {
 
     public Vector2 speed;
-    public ParticleSystem dieParticle;
 
     protected Rigidbody2D r2d;
     protected SpriteRenderer spriteRenderer;
@@ -33,6 +32,7 @@ public abstract class Enemy : MonoBehaviour {
     public void kill()
     {
         Destroy(gameObject);
+        var dieParticle = Resources.Load<ParticleSystem>("EnemyParticle");
         var particleSystemInstance = Instantiate<ParticleSystem>(dieParticle, transform.position, Quaternion.identity);
         Destroy(particleSystemInstance.gameObject, particleSystemInstance.main.duration);
     }
